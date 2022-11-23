@@ -1,10 +1,10 @@
 body {
-		background: #f5f3dc;
+background: #00FA9A;
 }
 
 .headline {
 text-transform: uppercase; 
-color: #ADD8E6;
+color: #00FA9A;
 }
 
 input[type="text"] {
@@ -13,7 +13,7 @@ input[type="text"] {
 }
 
 input[type="submit"] {
-   background: #3718e7;
+   background: #00FFFF;
    border: 15px;
    border-radius: 10%;
 }
